@@ -5,7 +5,7 @@ may not be an exciting topic in general, it becomes a bit more so when
 enumerating permutations by use of the [Factorial Number System]
 (https://en.wikipedia.org/wiki/Factorial_number_system),
 
-![Factorial Number System](https://github.com/fjfp/Permutations/tree/master/imgs/factorial_summation.png)
+![Factorial Numbers](https://github.com/fjfp/Permutations/tree/master/imgs/factorial_summation.png)
 
 # What's Here
 
